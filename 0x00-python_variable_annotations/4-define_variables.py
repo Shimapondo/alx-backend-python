@@ -5,5 +5,5 @@
 
 a: int = 1
 pi: float = 3.14
-i_understand_annotations: boo1 = True
+i_understand_annotations: bool = True
 school: str = 'Holberton'
